@@ -1,0 +1,160 @@
+2024-12-27 13:30:37,941 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.134:8080
+2024-12-27 13:30:37,941 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 13:30:37,943 - INFO -  * Restarting with stat
+2024-12-27 13:30:38,715 - WARNING -  * Debugger is active!
+2024-12-27 13:30:38,718 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:31:12,898 - INFO - 127.0.0.1 - - [27/Dec/2024 13:31:12] "[33mGET /items HTTP/1.1[0m" 404 -
+2024-12-27 13:31:44,375 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.134:8080
+2024-12-27 13:31:44,375 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 13:31:44,377 - INFO -  * Restarting with stat
+2024-12-27 13:31:45,191 - WARNING -  * Debugger is active!
+2024-12-27 13:31:45,194 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:31:51,657 - INFO - 127.0.0.1 - - [27/Dec/2024 13:31:51] "[33mGET /items HTTP/1.1[0m" 404 -
+2024-12-27 13:32:43,799 - INFO - 127.0.0.1 - - [27/Dec/2024 13:32:43] "GET /api/items HTTP/1.1" 200 -
+2024-12-27 13:33:27,197 - INFO - 127.0.0.1 - - [27/Dec/2024 13:33:27] "GET /api/docs HTTP/1.1" 200 -
+2024-12-27 13:33:27,276 - INFO - 127.0.0.1 - - [27/Dec/2024 13:33:27] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+2024-12-27 13:33:27,414 - INFO - 127.0.0.1 - - [27/Dec/2024 13:33:27] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+2024-12-27 13:33:28,488 - INFO - 127.0.0.1 - - [27/Dec/2024 13:33:28] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-12-27 13:33:29,576 - INFO - 127.0.0.1 - - [27/Dec/2024 13:33:29] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-12-27 13:33:30,019 - INFO - 127.0.0.1 - - [27/Dec/2024 13:33:30] "GET /api/swagger.json HTTP/1.1" 200 -
+2024-12-27 13:33:30,034 - INFO - 127.0.0.1 - - [27/Dec/2024 13:33:30] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+2024-12-27 13:33:36,212 - INFO - 127.0.0.1 - - [27/Dec/2024 13:33:36] "GET /api/swagger.json HTTP/1.1" 200 -
+2024-12-27 13:34:12,167 - INFO - 127.0.0.1 - - [27/Dec/2024 13:34:12] "GET /api/items HTTP/1.1" 200 -
+2024-12-27 13:34:18,148 - INFO - 127.0.0.1 - - [27/Dec/2024 13:34:18] "GET /api/items HTTP/1.1" 200 -
+2024-12-27 13:34:35,983 - INFO - 127.0.0.1 - - [27/Dec/2024 13:34:35] "[35m[1mPOST /api/items HTTP/1.1[0m" 201 -
+2024-12-27 13:34:37,104 - INFO - 127.0.0.1 - - [27/Dec/2024 13:34:37] "[35m[1mPOST /api/items HTTP/1.1[0m" 201 -
+2024-12-27 13:34:42,693 - INFO - 127.0.0.1 - - [27/Dec/2024 13:34:42] "GET /api/items HTTP/1.1" 200 -
+2024-12-27 13:35:00,968 - INFO - 127.0.0.1 - - [27/Dec/2024 13:35:00] "GET /api/items/1 HTTP/1.1" 200 -
+2024-12-27 13:35:07,017 - INFO - 127.0.0.1 - - [27/Dec/2024 13:35:07] "DELETE /api/items/1 HTTP/1.1" 200 -
+2024-12-27 13:35:20,853 - INFO - 127.0.0.1 - - [27/Dec/2024 13:35:20] "GET /api/items HTTP/1.1" 200 -
+2024-12-27 13:35:46,149 - WARNING - Item with ID 1 not found
+2024-12-27 13:35:46,149 - INFO - 127.0.0.1 - - [27/Dec/2024 13:35:46] "[33mPUT /api/items/1 HTTP/1.1[0m" 404 -
+2024-12-27 13:35:51,762 - INFO - 127.0.0.1 - - [27/Dec/2024 13:35:51] "PUT /api/items/2 HTTP/1.1" 200 -
+2024-12-27 13:35:55,673 - INFO - 127.0.0.1 - - [27/Dec/2024 13:35:55] "GET /api/items HTTP/1.1" 200 -
+2024-12-27 13:36:09,642 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.134:8080
+2024-12-27 13:36:09,642 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 13:36:09,644 - INFO -  * Restarting with stat
+2024-12-27 13:36:10,356 - WARNING -  * Debugger is active!
+2024-12-27 13:36:10,358 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:36:15,890 - INFO - 127.0.0.1 - - [27/Dec/2024 13:36:15] "[35m[1mPOST /api/items HTTP/1.1[0m" 201 -
+2024-12-27 13:36:23,926 - INFO - 127.0.0.1 - - [27/Dec/2024 13:36:23] "GET /api/items HTTP/1.1" 200 -
+2024-12-27 13:43:30,814 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.134:8080
+2024-12-27 13:43:30,815 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 13:43:30,817 - INFO -  * Restarting with stat
+2024-12-27 13:43:31,534 - WARNING -  * Debugger is active!
+2024-12-27 13:43:31,537 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:43:34,408 - INFO - 127.0.0.1 - - [27/Dec/2024 13:43:34] "GET /api/items HTTP/1.1" 200 -
+2024-12-27 13:43:51,839 - INFO - 127.0.0.1 - - [27/Dec/2024 13:43:51] "[33mGET /api/products HTTP/1.1[0m" 404 -
+2024-12-27 13:43:59,028 - INFO -  * Detected change in 'C:\\Users\\Ilya\\OneDrive\\Рабочий стол\\microservice_python\\app.py', reloading
+2024-12-27 13:44:00,638 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.134:8080
+2024-12-27 13:44:00,638 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 13:44:00,639 - INFO -  * Restarting with stat
+2024-12-27 13:44:01,337 - WARNING -  * Debugger is active!
+2024-12-27 13:44:01,339 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:44:03,908 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:03] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:44:09,632 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:09] "GET /api/docs HTTP/1.1" 200 -
+2024-12-27 13:44:09,693 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:09] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+2024-12-27 13:44:09,880 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:09] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+2024-12-27 13:44:09,977 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:09] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+2024-12-27 13:44:09,977 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:09] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2024-12-27 13:44:10,424 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:10] "GET /api/swagger.json HTTP/1.1" 200 -
+2024-12-27 13:44:10,426 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:10] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+2024-12-27 13:44:24,102 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:24] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2024-12-27 13:44:29,694 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:29] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:44:30,758 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:30] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:44:42,092 - INFO - 127.0.0.1 - - [27/Dec/2024 13:44:42] "[35m[1mDELETE /api/products/1 HTTP/1.1[0m" 500 -
+2024-12-27 13:45:36,664 - INFO - 127.0.0.1 - - [27/Dec/2024 13:45:36] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:46:39,188 - INFO - 127.0.0.1 - - [27/Dec/2024 13:46:39] "[35m[1mDELETE /api/products/1 HTTP/1.1[0m" 500 -
+2024-12-27 13:48:04,049 - INFO -  * Detected change in 'C:\\Users\\Ilya\\OneDrive\\Рабочий стол\\microservice_python\\app.py', reloading
+2024-12-27 13:48:04,196 - INFO -  * Restarting with stat
+2024-12-27 13:48:05,057 - WARNING -  * Debugger is active!
+2024-12-27 13:48:05,059 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:48:08,903 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.134:8080
+2024-12-27 13:48:08,904 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 13:48:08,905 - INFO -  * Restarting with stat
+2024-12-27 13:48:09,614 - WARNING -  * Debugger is active!
+2024-12-27 13:48:09,617 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:48:11,629 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:11] "GET /api/docs HTTP/1.1" 200 -
+2024-12-27 13:48:11,684 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:11] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2024-12-27 13:48:11,861 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:11] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2024-12-27 13:48:11,983 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:11] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2024-12-27 13:48:11,984 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:11] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2024-12-27 13:48:12,408 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:12] "GET /api/swagger.json HTTP/1.1" 200 -
+2024-12-27 13:48:12,423 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:12] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2024-12-27 13:48:19,986 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:19] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:48:23,897 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:23] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:48:30,119 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:30] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2024-12-27 13:48:31,140 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:31] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2024-12-27 13:48:39,423 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:39] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:48:53,422 - INFO - 127.0.0.1 - - [27/Dec/2024 13:48:53] "[35m[1mPUT /api/products/1 HTTP/1.1[0m" 500 -
+2024-12-27 13:49:34,960 - INFO -  * Detected change in 'C:\\Users\\Ilya\\OneDrive\\Рабочий стол\\microservice_python\\app.py', reloading
+2024-12-27 13:49:35,074 - INFO -  * Restarting with stat
+2024-12-27 13:49:35,788 - WARNING -  * Debugger is active!
+2024-12-27 13:49:35,790 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:49:43,199 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.134:8080
+2024-12-27 13:49:43,199 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 13:49:43,200 - INFO -  * Restarting with stat
+2024-12-27 13:49:43,859 - WARNING -  * Debugger is active!
+2024-12-27 13:49:43,861 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:49:48,334 - INFO - 127.0.0.1 - - [27/Dec/2024 13:49:48] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:49:53,165 - INFO - 127.0.0.1 - - [27/Dec/2024 13:49:53] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2024-12-27 13:49:59,408 - INFO - 127.0.0.1 - - [27/Dec/2024 13:49:59] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:50:09,902 - INFO - 127.0.0.1 - - [27/Dec/2024 13:50:09] "PUT /api/products/1 HTTP/1.1" 200 -
+2024-12-27 13:50:18,062 - INFO - 127.0.0.1 - - [27/Dec/2024 13:50:18] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:50:26,788 - INFO - 127.0.0.1 - - [27/Dec/2024 13:50:26] "GET /api/products/1 HTTP/1.1" 200 -
+2024-12-27 13:50:27,895 - INFO - 127.0.0.1 - - [27/Dec/2024 13:50:27] "GET /api/products/1 HTTP/1.1" 200 -
+2024-12-27 13:50:34,016 - INFO - 127.0.0.1 - - [27/Dec/2024 13:50:34] "[35m[1mDELETE /api/products/1 HTTP/1.1[0m" 500 -
+2024-12-27 13:50:59,018 - INFO -  * Detected change in 'C:\\Users\\Ilya\\OneDrive\\Рабочий стол\\microservice_python\\app.py', reloading
+2024-12-27 13:50:59,133 - INFO -  * Restarting with stat
+2024-12-27 13:50:59,884 - WARNING -  * Debugger is active!
+2024-12-27 13:50:59,886 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:51:01,944 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.134:8080
+2024-12-27 13:51:01,945 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 13:51:01,946 - INFO -  * Restarting with stat
+2024-12-27 13:51:02,627 - WARNING -  * Debugger is active!
+2024-12-27 13:51:02,629 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:51:09,710 - INFO - 127.0.0.1 - - [27/Dec/2024 13:51:09] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:51:12,145 - INFO - 127.0.0.1 - - [27/Dec/2024 13:51:12] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2024-12-27 13:51:15,256 - INFO - 127.0.0.1 - - [27/Dec/2024 13:51:15] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:51:26,028 - INFO - 127.0.0.1 - - [27/Dec/2024 13:51:26] "PUT /api/products/1 HTTP/1.1" 200 -
+2024-12-27 13:51:40,146 - INFO - 127.0.0.1 - - [27/Dec/2024 13:51:40] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:51:46,370 - INFO - 127.0.0.1 - - [27/Dec/2024 13:51:46] "DELETE /api/products/1 HTTP/1.1" 200 -
+2024-12-27 13:51:53,326 - INFO - 127.0.0.1 - - [27/Dec/2024 13:51:53] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:58:00,792 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.134:8080
+2024-12-27 13:58:00,793 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 13:58:00,798 - INFO -  * Restarting with stat
+2024-12-27 13:58:01,595 - WARNING -  * Debugger is active!
+2024-12-27 13:58:01,597 - INFO -  * Debugger PIN: 157-497-342
+2024-12-27 13:58:04,738 - INFO - 127.0.0.1 - - [27/Dec/2024 13:58:04] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:58:37,324 - INFO - 127.0.0.1 - - [27/Dec/2024 13:58:37] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2024-12-27 13:58:58,802 - INFO - 127.0.0.1 - - [27/Dec/2024 13:58:58] "GET /api/products HTTP/1.1" 200 -
+2024-12-27 13:59:38,908 - INFO - 127.0.0.1 - - [27/Dec/2024 13:59:38] "PUT /api/products/1 HTTP/1.1" 200 -
+2024-12-27 13:59:58,723 - INFO - 127.0.0.1 - - [27/Dec/2024 13:59:58] "GET /api/products/1 HTTP/1.1" 200 -
+2024-12-27 14:01:18,098 - INFO - 127.0.0.1 - - [27/Dec/2024 14:01:18] "DELETE /api/products/1 HTTP/1.1" 200 -
